@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+Flask
+Pillow
+transformers
+urllib3
+pickle4
+gunicorn
+TensorFlow
+torch
